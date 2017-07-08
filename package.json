@@ -1,0 +1,16 @@
+{
+  "name": "generator-pipeline",
+  "version": "0.0.1",
+  "description": "Generates a js module with a build/deploy pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["generator", "js", "module", "package", "yeoman", "pipeline"],
+  "author": {
+    "name": "Frederik Kvartborg Albertsen",
+    "email": "hello@kvartborg.net",
+    "url": "https://kvartborg.net"
+  },
+  "license": "MIT"
+}
